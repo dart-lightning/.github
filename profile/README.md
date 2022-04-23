@@ -12,11 +12,6 @@
   </h4>
 </div>
 
-
-:smiley: Join our community
-
-Most of our communication is happening in the [discord](https://discord.gg/ahQhKTRe) server, come say hi!
-
 <div align="center">
   <img src="https://brink.dev/assets/images/brink_logo.png" width="150"/>
 
@@ -24,4 +19,8 @@ Most of our communication is happening in the [discord](https://discord.gg/ahQhK
     <strong>Supported by a Brink grant.</strong>
   </p>
 </div>
+
+:smiley: Join our community
+
+Most of our communication is happening in the [discord](https://discord.gg/AePGKJVFVA) server, come say hi!
 
