@@ -22,7 +22,7 @@
 Most of our communication is happening in the [discord](https://discord.gg/ahQhKTRe) server, come say hi!
 
 <div align="center">
-  <img src="https://brink.dev/assets/images/brink_logo.png" />
+  <img src="https://brink.dev/assets/images/brink_logo.png" width="150"/>
 
   <p>
     <strong>Supported by a Brink grant.</strong>
