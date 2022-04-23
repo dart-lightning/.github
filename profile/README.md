@@ -7,10 +7,6 @@
     <strong> :dart: lndart: A collection of lightning network tools written in dart :dart: </strong>
   </p>
 
-  <p>
-   <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/dart-lightning/clightning.dart/Sanity%20Check?style=flat-square">
-  </p>
-
   <h4>
     <a href="https://github.com/dart-lightning">Project Homepage</a>
   </h4>
